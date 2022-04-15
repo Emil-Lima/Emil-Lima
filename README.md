@@ -3,6 +3,11 @@
 - 🌱 I’m currently learning Python and mathematics & statistics.
 - 💻 Currently a student at CodeClan in Edinburgh.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-rozas&show_icons=true&theme=gruvbox&hide=stars)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j-rozas&langs_count=4&layout=compact)
+
+
+
 <!---
 J-Rozas/J-Rozas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
