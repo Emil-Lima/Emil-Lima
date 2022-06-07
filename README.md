@@ -1,8 +1,8 @@
 ## Hello! I am Emilio 👋 
-I am software developer based in Edinbugh.
+I am a junior software developer and data science student. 💻
 
-### My interests 🦸‍♂️
-- Software engineering 
+### My interests 🤓
+- Software engineering
 - Computer science
 - Data science
 - Applied mathematics
@@ -24,11 +24,11 @@ I am software developer based in Edinbugh.
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
-
-
-<br>
-
+### Good stuff
 <a href='https://www.codewars.com/users/J-Rozas'><img src='https://www.codewars.com/users/J-Rozas/badges/large'/></a>
+
+### Contact
+<a href="https://www.linkedin.com/in/emilio-j-r-lima-392370241/">LinkedIn</a>
 
 <br>
 
