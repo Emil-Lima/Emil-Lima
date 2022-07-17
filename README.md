@@ -1,5 +1,5 @@
 ## Hello! I am Emilio 👋 
-I am a junior software developer and data science student. 💻
+I am a software developer and data science student. 💻
 
 ### My interests 🤓
 - Software engineering
