@@ -38,10 +38,6 @@ I am a software developer and data science student. 💻
 ### Good stuff
 <a href='https://www.codewars.com/users/J-Rozas'><img src='https://www.codewars.com/users/J-Rozas/badges/large'/></a>
 
-### Some stats
-
-[![J-Rozas's GitHub stats](https://github-readme-stats.vercel.app/api?username=J-Rozas&show_icons=true&count_private=true&custom_title=Emilio%20J.%20R.%20Lima's%20Stats&theme=highcontrast&hide_rank=true)](https://github.com/J-Rozas)
-
 ### Contact
 <a href="https://www.linkedin.com/in/emilio-j-r-lima-392370241/">LinkedIn</a>
 
