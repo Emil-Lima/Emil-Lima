@@ -1,7 +1,7 @@
 ## Hello! I am Emilio 👋 Let's build stuff together 
 I am a professional software engineer and data science student. 💻
 
-### My interests 🤓
+### My interests
 - Software engineering
 - DevOps
 - Computer science
