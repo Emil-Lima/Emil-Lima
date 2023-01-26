@@ -1,5 +1,5 @@
 ## Hello! I am Emilio 👋 Let's build stuff together 
-I am a software developer and data science student. 💻
+I am a professional software engineer and data science student. 💻
 
 ### My interests 🤓
 - Software engineering
