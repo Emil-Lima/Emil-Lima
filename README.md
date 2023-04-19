@@ -13,7 +13,7 @@ I am a professional software engineer and data science student. 💻
 <a href="https://github.com/J-Rozas/GeoFun">GeoFun:</a>  Educational app developed using the MERN Stack
 
 ### Contact
-<a href="https://www.linkedin.com/in/emilio-j-r-lima-392370241/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/emilio--lima/">LinkedIn</a>
 
 <br>
 
