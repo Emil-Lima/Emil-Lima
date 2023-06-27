@@ -9,9 +9,6 @@ I am a professional software engineer and data science student. 💻
 - Applied mathematics
 - Statistics
 
-### Projects
-<a href="https://github.com/J-Rozas/GeoFun">GeoFun:</a>  Educational app developed using the MERN Stack
-
 ### Contact
 <a href="https://www.linkedin.com/in/emilio--lima/">LinkedIn</a>
 
