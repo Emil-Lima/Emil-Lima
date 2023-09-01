@@ -11,7 +11,3 @@ I am a professional software engineer and data science student. 💻
 
 ### Contact
 <a href="https://www.linkedin.com/in/emilio--lima/">LinkedIn</a>
-
-<br>
-
-###### :star2: I only like dreaming all the day long :star2:
