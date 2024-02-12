@@ -10,4 +10,4 @@ I am a professional software engineer and data science student. 💻
 - Statistics
 
 ### Contact
-<a href="https://www.linkedin.com/in/emilio--lima/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/emil-lima/">LinkedIn</a>
