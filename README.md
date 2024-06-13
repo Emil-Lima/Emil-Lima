@@ -3,11 +3,10 @@ I am a professional software engineer and data science student. 💻
 
 ### My interests
 - Software engineering
-- PE & SRE
-- Computer science
-- Data science
+- Machine learning
+- Weak AI
 - Applied mathematics
-- Statistics
+- Statistical modelling
 
 ### Contact
 <a href="https://www.linkedin.com/in/emil-lima/">LinkedIn</a>
