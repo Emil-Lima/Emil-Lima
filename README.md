@@ -3,8 +3,6 @@ I am a professional software engineer and data science student. 💻
 
 ### My interests
 - Software engineering
-- Machine learning
-- Weak AI
 - Applied mathematics
 - Statistical modelling
 
